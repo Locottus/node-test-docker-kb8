@@ -1,0 +1,14 @@
+{
+  "name": "node-demo-app",
+  "version": "1.0.0",
+  "description": "para pruebas docker y kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herlich Steven Gonzalez Zambrano",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
